@@ -1,6 +1,15 @@
 Spanish summary
 ======================
 
+## OS X - Spanish letters
+
+  - Opt + e then a, e, i, o, u        
+  - Opt + n then n
+  - Opt + u then u
+  - Shift + Option + ?: ¿
+  - Option + 1: ¡
+
+
 ## Infinitivo
 
 - ar: hablar
@@ -47,3 +56,22 @@ Profession: Soy profeora
 Nombre: Soy Jeremy
 
 Caracteristics: Luis es alto
+
+## Plural Articulos 
+
+Palabras terminados en i, u or es consonante: **+es**  
+Otherwise, end in **+s**
+
+**Pronouncination of +es**: is +ayes!  
+
+- plural (unos, unas) is "some". 
+
+## Tener: to have (or to be as in 'i have 10 years')
+
+|                         | Tener      |
+|-------------------------|------------|
+| yo                      | tango      |
+| tu                      | t**ie**nes |
+| el / ellas / usted      | t**ie**ne  |
+| nosotros                | t*enemos*    |
+| ustedes / ellos / ellas | t**ie**nen |
