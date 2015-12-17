@@ -1,4 +1,4 @@
-Spanish summary
+t  summary
 ======================
 
 ## OS X - Spanish letters
@@ -16,13 +16,13 @@ Spanish summary
 - er:  comer
 - ir: vivir
 
-                        | ar: hablar     | er: comer     | ir: vivir
-----------------------  |---------       | ---------     | ----------
-yo                      | habl**o**      | com**o**      | viv**io**
-tu                      | habl**as**     | com**es**     | viv**es**
-el / ellas/ usted       | habl**a**      | com**e**      | viv**e**
-nosotros                | habl**amos**   | com**emos**   | viv**imos**
-ustedes / ellos / ellas | habl**an**     | com**en**     | viv**en**
+|                        | ar: hablar     | er: comer     | ir: vivir|
+|----------------------  |---------       | ---------     | ----------|
+|yo                      | habl**o**      | com**o**      | viv**io**|
+|tu                      | habl**as**     | com**es**     | viv**es**|
+|el / ellas/ usted       | habl**a**      | com**e**      | viv**e**|
+|nosotros                | habl**amos**   | com**emos**   | viv**imos**|
+|ustedes / ellos / ellas | habl**an**     | com**en**     | viv**en**|
 
 ## Pronounciaion
 
@@ -162,7 +162,7 @@ hay + número + sustanvio
     - En el salon hay  8 sillas /  unas mochilas / estudiantes / una profesora
    
 **articulos indefinidos**  
-un, una, unos, unas (or omit)
+un, una, unos, unas, mucho, mucha, muchos, muchas (or omit)
   
   - ¿Qué hay en Toucan?
     - Hay una secretaria.

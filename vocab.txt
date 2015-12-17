@@ -1,4 +1,3 @@
-comer - to eat
 mirar  - to see
 buscar - to search
 silla - seat
@@ -10,7 +9,7 @@ gitanos - gypsies
 ser - to be (permanent)
 
 mochila - backpack
-pais - country
+pais / paîs - country
 mochilero, mochilera - backpacker
 meter - to put in
 comprar - to buy
@@ -68,7 +67,7 @@ muscoloso - muscley
 
 - bigote: mustache
 - barbada: beard
-- pelo: hair 
+- pelo: hair
   - largo: long
   - corto: short
   - liso: smooth
@@ -88,7 +87,7 @@ muscoloso - muscley
   - falda: skirt
   - gafas: glasses
   - sandalias: sandles
-  - botas: boots 
+  - botas: boots
   - tenis: tennis shoes
   - corbata: tie
   - vestido: dress
@@ -102,22 +101,22 @@ vendeolor - salesman
 músico - musician
 sustantivo - noun
 ahora - now
-Lavar: to wash  
-Beber: to drink  
-Vivir: to live  
-Comprar: to buy  
-Cenar: eat dinner  
-Necesitar: to need  
-Dibujar: to draw  
-Pintar: to paint  
-preparar: to prepare  
+Lavar: to wash
+Beber: to drink
+Vivir: to live
+Comprar: to buy
+Cenar: eat dinner
+Necesitar: to need
+Dibujar: to draw
+Pintar: to paint
+preparar: to prepare
 tomar:  to take / to drink
-llevar: to bring  
-descansar: to rest  
-llamar: to call  
-viajar:  to travel  
-caminar:  to walk  
-trabaajar: to work  
+llevar: to bring
+descansar: to rest
+llamar: to call
+viajar:  to travel
+caminar:  to walk
+trabaajar: to work
 partir: to separate
 abrir: to open
 escribir: write
@@ -164,11 +163,11 @@ plata - money
 - al lado: next to
 - al lado izquierdo de: to the left of
 - al lado derecho de: to the right of
-- Detraás de:  behind
+- Detrás de:  behind
 - Adentro de: inside of
 - afuera de: outside of
 - entre: between
-- encima de: on top of
+- encima de: ou top of
 - debajo de: under
 
 la mano - hand (feminine)
@@ -199,3 +198,80 @@ arboles / árboles - trees
 hoy - now
 ayer - yesterday
 ahora - today
+huéspedes - guest
+
+primero - first
+segund - second
+tercer - third
+cuarto - fouth
+quinto - fifth
+sexto - six
+séptimo - seventh
+octavo - eigth
+novena - ninth
+décimo - tenth
+vocálicos - vowel
+
+- la salón: living room
+- el sofá: sofa
+- el televisor: television / tv
+- el cama: bed
+- la estanteria: shelves
+- el ordenador (spain) / computador (latin): computer
+- la silla: chair
+- el comedor: dining room
+- la mesa: table
+- el lavabo: bathroom
+- la chimenea: fireplace
+- el garaje: garage
+- la terraza: balcony, terrace
+- la despacho: office
+- la sala: room
+- el jardín / jardin: garden
+- el dormitorio: room
+- el aprtimento: partment
+- la cocina: kitchen
+- el lavaplato: dishwasher
+- el horno: oven
+- los pisos: floors
+- los muebles; furniture
+- el cojínes / cojines: cushion
+- las escaleras: stairs
+- el eléctricas: elevator
+- el elevador: elevator
+- la biblioteca: library
+- la cosa: thing
+- la nevera - refrigerator / fridge
+- la puerta - door
+- cochino - dirty
+
+entender - to understand
+comenzar - to begin / commence
+perder - to lose
+pensar - to think
+poder - to can (you can sleep). always has infinitive after it (no puedo dormir)
+encontrar - to find
+volver - to return
+pedir - to ask for
+vestirse - to get dressed
+servir - to serve
+jugar - to fly
+empezar - to start
+dormir - to sleep
+querer - to want
+necesitar - to need
+preferir - to prefer
+poder - can
+hacer - to do / to make / to cause
+viaje - journey / trip (noun)
+cambiar - to change / to switch
+pensar - to think
+siempre - always
+quedarse / quedasmos - to stay
+amo - love
+pasarme - to come / go / pass
+algo - something / anything
+eso - that / it
+vender - to sell
+carrera - to run
+el parque - park
