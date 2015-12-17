@@ -24,7 +24,7 @@ abecedario, alfabeto - alphabet
 tirar - to throw
 papelera - garbage can
 futbolista - football player (no
-vieja - old
+vieja / viejo - old
 pequeno - small
 moderno - modern
 
@@ -55,7 +55,7 @@ malo - bad
 trabajador - worker
 hablador - talks a lot
 fumador - smoker
-fuerte - strong
+fuerte - strong, loud
 débil - weak
 joven (gender neutral) - young
 interesante (gender neutral)- interesting
@@ -63,13 +63,14 @@ inteligente (gender neutral)- smart
 fuerte (gender netural) - strong
 calvo - bald
 bigote - mustache
-barbada - beard
+barba - beard
+muscoloso - muscley
 
 - bigote: mustache
 - barbada: beard
 - pelo: hair 
   - largo: long
-  - corto: shorta
+  - corto: short
   - liso: smooth
   - crespo: curly
   - rubio: blond
@@ -120,3 +121,81 @@ trabaajar: to work
 partir: to separate
 abrir: to open
 escribir: write
+
+carro - car
+coche - car
+estos - these
+esto - this
+quien- who
+bicicleta - bicycle
+monedas - coins
+vaqueros - cowboy
+jersey - sweater
+la ropa interior - underwear
+los pantalones vaqueros - "cowboy pants" / jeans
+cuero - leather
+abrigo - jacket
+seda - silk
+pijama - pijamas
+calcetinas / medias - socks
+zapatos - shoes
+desordenados - messy / disorganized
+correa - belt
+camisa - shirt
+compañero - companinon
+chaqueta - jacket
+gorra - cap / hat
+cartera - purse
+piso- floor
+novio - boyfriend
+novia - girlfriend
+hijo - son
+habitación - bedroom
+jardín - garden
+hoy - now (pronounced oy)
+describir - to describe
+bermudas - shorts / short pants
+calzoncillos - briefs
+camiseta - t-shirt
+reloj - clock, watch
+plata - money
+
+- En frente de: in front of
+- al lado: next to
+- al lado izquierdo de: to the left of
+- al lado derecho de: to the right of
+- Detraás de:  behind
+- Adentro de: inside of
+- afuera de: outside of
+- entre: between
+- encima de: on top of
+- debajo de: under
+
+la mano - hand (feminine)
+las manos - hand
+la moto - motorcycle
+sobre - about / envelope
+
+espejo - mirror
+cómodas / comodas - comfortable
+oscuars - dark
+móvil / movil - mobile, moving
+entonces - then
+lejos - far
+circa - near
+carpeta - carpet
+esos - those
+saber - to know
+estanco - store
+puerta - door
+
+ubicacion  - location
+barrio - neighborhood
+aburrido - boring
+tráfico - traffic
+deportes - sports
+taberna - tavern
+arboles / árboles - trees
+hoy - now
+ayer - yesterday
+ahora - today
