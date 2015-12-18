@@ -53,6 +53,7 @@ divertido - fun
 malo - bad
 trabajador - worker
 hablador - talks a lot
+hermosos - beautiful
 fumador - smoker
 fuerte - strong, loud
 débil - weak
@@ -100,7 +101,6 @@ muscoloso - muscley
 vendeolor - salesman
 músico - musician
 sustantivo - noun
-ahora - now
 Lavar: to wash
 Beber: to drink
 Vivir: to live
@@ -124,6 +124,7 @@ escribir: write
 carro - car
 coche - car
 estos - these
+ese - those
 esto - this
 quien- who
 bicicleta - bicycle
@@ -151,7 +152,6 @@ novia - girlfriend
 hijo - son
 habitación - bedroom
 jardín - garden
-hoy - now (pronounced oy)
 describir - to describe
 bermudas - shorts / short pants
 calzoncillos - briefs
@@ -162,12 +162,12 @@ plata - money
 - En frente de: in front of
 - al lado: next to
 - al lado izquierdo de: to the left of
-- al lado derecho de: to the right of
-- Detrás de:  behind
+- al lado derecho/derecha de: to the right of
+- Detrás de / detras de:  behind
 - Adentro de: inside of
 - afuera de: outside of
 - entre: between
-- encima de: ou top of
+- encima de: on top of
 - debajo de: under
 
 la mano - hand (feminine)
@@ -184,7 +184,7 @@ lejos - far
 circa - near
 carpeta - carpet
 esos - those
-saber - to know
+saber - to know things (idioms, temas
 estanco - store
 puerta - door
 
@@ -195,9 +195,9 @@ tráfico - traffic
 deportes - sports
 taberna - tavern
 arboles / árboles - trees
-hoy - now
 ayer - yesterday
-ahora - today
+hoy - today (pronounced oy)
+ahora -  now
 huéspedes - guest
 
 primero - first
@@ -247,6 +247,7 @@ vocálicos - vowel
 
 entender - to understand
 comenzar - to begin / commence
+
 perder - to lose
 pensar - to think
 poder - to can (you can sleep). always has infinitive after it (no puedo dormir)
@@ -258,10 +259,10 @@ servir - to serve
 jugar - to fly
 empezar - to start
 dormir - to sleep
+venir - to come
 querer - to want
 necesitar - to need
 preferir - to prefer
-poder - can
 hacer - to do / to make / to cause
 viaje - journey / trip (noun)
 cambiar - to change / to switch
@@ -275,3 +276,59 @@ eso - that / it
 vender - to sell
 carrera - to run
 el parque - park
+cosa - thing
+sur - south
+salir - to go out
+sabes - you know
+sé - i know
+
+- Traducir - to translate
+- Conducir - to translate
+- saber - to know
+- producir - to produce, grow
+- dar - to give
+- conocer - to know people or places
+- traer - to bring
+- caer - to fall
+- poner - to put
+- caber - to fit
+- valer - to value, to cost
+tarea - homework
+salir - to exit / to go out / to leave
+siempre - always
+nunca - never
+aprendir - to learn
+aprendo - i learn
+decir - to say
+quedar - to be left, to stay
+gente - people
+cuenta - the check / bill in restaurant
+pelicula - movie
+como - I eat
+borracha - drunk
+oir - to hear
+ir - to go
+cita - date
+construir - to build
+destruir - to destroy
+terminar - to finish
+entonces - then, next
+sucia - dirty
+mejor - better / best
+peor - worse
+mayor - older
+joven - young
+menor - younger
+linda / lindo / hermasa / hermaso - beautiful
+caro / cara - expensive
+escuchar - to listen to (music)
+cierto - true
+verdad - truth
+enserio - seriously
+novia, novio - girlfriend, boyfriend
+luminosa - bright
+alfombra - carpet
+turca - Turkish
+especial - particular
+exactamente - exactly
+aburrido - boring
