@@ -198,12 +198,15 @@ Group 1
 | ellos / ellas     | qu**ie**ren                                 | d**ue**rmen                                               | p**i**den               | j**ue**gan             |
 
 
-
 Group 2
 
 |    | hacer (to do)      | salir (to go out) | traer (to bring) | poner (to put) | caer (to fall) | caber (to fit, through a door) | valer (to value) |
 |----|--------------------|-------------------|------------------|----------------|----------------|--------------------------------|------------------|
 | yo | (regular) ha**go** | sal**go**         | traigo           | pon**go**      | caigo          | quepo                          | valgo            |
+
+Group 5 
+  - construir: construyo, construyes, construye, construimos, construyen
+  - destruir:  destruyo, destruyes, destruye, destruimos, destruyen
 
 * Other conjugations are **regular**.
 
@@ -252,3 +255,88 @@ Querer - to want (IRREGULAR)
 2. Querer + sustantivo
   - Quiero una cerveza
   - Luis quiere un carro
+
+### Quién / Quienes
+  Quien: who / for personas
+
+  1. ¿quien **es** el?  
+  2. ¿quienes **son** ellos?
+
+### Cuanto / cuantas
+
+  - Cuanto / cuantos: how much / money. 
+  - For: dia / hora / tiempo
+
+  - How much: Cuánto / Cuánta 
+    - ¿Cuanto dinero tienes?
+    - ¿Cuanta musica hay?
+    
+  - How many: cuántos / cuántas
+    - Cuantos carros tienes?
+    - Cuantas sillas necesistas?
+
+  How much does something cost:
+    - ¿**Cuánto vale** el carro? How much is the car.
+    - ¿**Cuánto cuesta** la casa? How much si the house.
+
+### Cuál 
+
+  Cuál: who / whom / which
+
+  - ¿Cuál es tu película favorita?
+
+### Donde
+  Where
+
+  - ¿De donde eres? : Where are you FROM.
+  - ¿donde estar? : Where are you?
+
+  Maria es de sur de España.
+
+### Decir (to say)
+  - IRREGULAR: digo, dices, dice, dicimos, dicen 
+
+## Conocer v saber (To know)
+
+  - Conocer - personas / lugares (places)
+    - Yo conozco Medellin (I know Medellin)
+    - Yo conozco **a** Laura (I know Luara)
+      - You **need** a for person
+    
+  - Saber - things, idioms, subjects (cosas, idiomas, temas)
+    - Yo sé espanol.
+
+## Ir: to go
+
+  - conjugation: voy, vas, va, vamos, van
+  - FUTURE (futio): ir + a + infintivo
+    - voy a comer: I will go to eat.
+
+  ¿Que van a hacer esta noche?
+
+## Comparación (Comparison)
+
+### Comparativos regulares
+  
+  1. Superioridad (superiro): Más + adjetivo / sustantivo + que
+    - Medellin es más grande que Guatapé.
+    - Mi hermano es más grande que yo. 
+  2. Inferioridad (menos): Menos + adjectivo / sustantivo + que
+    - Medellin es menos sucia que Bogotá.
+  3. Igualdad (Equality as...as...): Tan + adjectivio / sustantivo + como
+    - Luisa es tan bonita como tu
+
+### Comparativos irregulares
+
+  1. Cali es buena.
+  2. Medellín es mejor que Cali (Medellin is better than Cali)
+    - **no mas** like in regular case
+
+  - bueno / buenas / buenos / buenas (object) => mejor / mejores (comparison)
+    - mejor / mejores: BETTER (used as adjective is best)
+  - malo => peor / peores
+    - el ron es malo
+    - el vodka es peor que el ron
+  - mas viejo (more old): mayor / mayores (older)
+    - Tengo 26 años. Soy menor que mi hermano.
+  - mas joven (more younger): menor / menores (younger)
