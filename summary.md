@@ -165,10 +165,8 @@ hay + número + sustanvio
 un, una, unos, unas, mucho, mucha, muchos, muchas (or omit)
   
   - ¿Qué hay en Toucan?
-    - Hay una secretaria.
-    - Hay muchos estudiantes.
-    - Hay sillas
-    - Hay profesores
+    - Hay una secretaria. / Hay muchos estudiantes.
+    - Hay sillas / Hay profesores
 
 **¿Dónde hay una farmacia?**
 
@@ -176,3 +174,81 @@ un, una, unos, unas, mucho, mucha, muchos, muchas (or omit)
     - La farmacia está en la esquina. (it's specific)
     - Hay unas farmacias en El Poblado.
 
+**RANDOM: primero-> décimo (first through ten) come before noun even when adjective. After its piso 11.**
+
+## Verbos irregulares en presente (Irregular verb conjugations in present tense)
+
+1. Vocálicos e => ie / o => ou / e => i / u => ue
+2. Irregularidad en "yo" (primera persona)
+3. Más de una irregularidad (more than one irregular). (e.g. tener, decir, oir)
+4. Completamente irregulares. (e.g. ir, soy)
+5. Otras regularidades (e.g. construir)
+
+* Group A and B have most verbs
+
+Group 1
+
+|                   | Group A (E->IE)                             | Group B (O->UE)                                           | Group C (E->I)          | Group D (U->UE)        |
+|-------------------|---------------------------------------------|-----------------------------------------------------------|-------------------------|------------------------|
+| ex                | querer, comenzar, entender,  perder, pensar | dormir, poder, encontrar,  volver, recondar (no recuerdo) | Pedir, vestirse, servir | jugar (not many verbs) |
+| yo                | qu**ie**ro                                  | d**uer**mo                                                | p**i**do                | j**ue**go              |
+| tü                | qu**ie**res                                 | d**ue**rmes                                               | p**i**des               | j**ue**gas             |
+| él / ella / usted | qu**ie**re                                  | d**ue**rme                                                | p**i**de                | j**ue**ga              |
+| nosotros          | queremos (**NEVER** irregular for voálicos) | dormimos                                                  | pedimos                 | jugamos                |
+| ellos / ellas     | qu**ie**ren                                 | d**ue**rmen                                               | p**i**den               | j**ue**gan             |
+
+
+
+Group 2
+
+|    | hacer (to do)      | salir (to go out) | traer (to bring) | poner (to put) | caer (to fall) | caber (to fit, through a door) | valer (to value) |
+|----|--------------------|-------------------|------------------|----------------|----------------|--------------------------------|------------------|
+| yo | (regular) ha**go** | sal**go**         | traigo           | pon**go**      | caigo          | quepo                          | valgo            |
+
+* Other conjugations are **regular**.
+
+Other:
+  - Traducir: traduzco (to translate)
+  - Conducir: conduzco (to translate)
+  - saber: sé (to know)
+  - producir: produzco (to produce, grow)
+  - dar: doy (to give)
+  - conocer: conozco (to know, to be familiar with)
+  - decir: digo (to say)
+
+## Poder  
+
+Poder - can (IRREGULAR)
+
+Poder + infinitivo
+  
+  - ¿Poder comer?
+    - Puedo comer en tu casa
+  - Podemos visitar Guatapé
+
+## Necesisdad - need
+
+Necesistar - to need (REGULAR)
+
+1. Necesitar + infinitivo: Necesisto domir
+2. Necesistar + sustantivo: Necesisto una cerveza
+
+* For "it is necssary". Say **Tú necesitas**.  **Do NOT say**: Es necesitas. 
+
+## Preferencia - preference
+
+Preferir - to prefer (IRREGULAR)
+
+1. Preferir (irregular) + infinitivo: Luisa prefiere vivir en Colombia
+2. Preferir + sustantivo: Prefiereo la carne
+
+## Querer
+
+Querer - to want (IRREGULAR)
+
+1. Querer + infinitivo
+  - Quiero estudiar mås español.
+  - No Queremos vivir en Europa
+2. Querer + sustantivo
+  - Quiero una cerveza
+  - Luis quiere un carro
