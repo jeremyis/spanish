@@ -68,7 +68,7 @@ muscoloso - muscley
 
 - bigote: mustache
 - barbada: beard
-- pelo: hair
+- pelo: hair (everywhere not just on head)
   - largo: long
   - corto: short
   - liso: smooth
@@ -197,11 +197,12 @@ taberna - tavern
 arboles / árboles - trees
 ayer - yesterday
 hoy - today (pronounced oy)
+hay - there is
 ahora -  now
 huéspedes - guest
 
 primero - first
-segund - second
+segundo - second
 tercer - third
 cuarto - fouth
 quinto - fifth
@@ -243,7 +244,7 @@ vocálicos - vowel
 - la cosa: thing
 - la nevera - refrigerator / fridge
 - la puerta - door
-- cochino - dirty
+- cochino - dirty (slang)
 
 entender - to understand
 comenzar - to begin / commence
@@ -274,7 +275,7 @@ pasarme - to come / go / pass
 algo - something / anything
 eso - that / it
 vender - to sell
-carrera - to run
+carrer - to run
 el parque - park
 cosa - thing
 sur - south
@@ -314,7 +315,9 @@ destruir - to destroy
 terminar - to finish
 entonces - then, next
 sucia - dirty
-mejor - better / best
+limpia - clean
+mejor - better
+le major - the best
 peor - worse
 mayor - older
 joven - young
@@ -332,3 +335,35 @@ turca - Turkish
 especial - particular
 exactamente - exactly
 aburrido - boring
+esquina - corner
+ventana - window
+salon - class room
+sala - living room
+ruidosa - noisy
+demasiado - too
+temprano - early
+cuadios - plad
+sonrisa - smile
+personaje - character
+piel - skin
+cantante - singer
+banda - bandes
+influyente - influential
+cabello - hair on head
+esclavos - slaves
+personaje - character in book
+viajo - I travel
+vengo - I come
+barco - boat
+a pie - by foot
+ver - to see
+pelicula - a movie
+buscar - to search
+cansado - tired
+cena - dinner
+guerra - war
+mundial - world (As adjective like guerra mundial)
+tipo - kind / type
+tiempo - time (like for your free time)
+como - like, to eat, as (...as...as..., with tan... como))
+cómo / como - how (has accent)

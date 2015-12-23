@@ -181,7 +181,7 @@ un, una, unos, unas, mucho, mucha, muchos, muchas (or omit)
 1. Vocálicos e => ie / o => ou / e => i / u => ue
 2. Irregularidad en "yo" (primera persona)
 3. Más de una irregularidad (more than one irregular). (e.g. tener, decir, oir)
-4. Completamente irregulares. (e.g. ir, soy)
+4. Completamente irregulares. (e.g. ir, ser)
 5. Otras regularidades (e.g. construir)
 
 * Group A and B have most verbs
@@ -204,7 +204,14 @@ Group 2
 |----|--------------------|-------------------|------------------|----------------|----------------|--------------------------------|------------------|
 | yo | (regular) ha**go** | sal**go**         | traigo           | pon**go**      | caigo          | quepo                          | valgo            |
 
+Group 4
+
+  - Ser - soy, eres, es, somos, son
+  - ir  - voy, vas,  va, vamos, von
+    - verbo de movimento (implies move self from one object to another)
+
 Group 5 
+
   - construir: construyo, construyes, construye, construimos, construyen
   - destruir:  destruyo, destruyes, destruye, destruimos, destruyen
 
@@ -256,13 +263,24 @@ Querer - to want (IRREGULAR)
   - Quiero una cerveza
   - Luis quiere un carro
 
+* when applied to person means love.
+
+## Pronouns
+
+## Que
+  - what? Para coasa (for things)
+  - ¿Qué quieres?
+
 ### Quién / Quienes
   Quien: who / for personas
+  
+    - answer is always a person
 
-  1. ¿quien **es** el?  
+  1. ¿quien **es** tu profesor?  
   2. ¿quienes **son** ellos?
 
 ### Cuanto / cuantas
+  - For quantities (contidad)
 
   - Cuanto / cuantos: how much / money. 
   - For: dia / hora / tiempo
@@ -270,14 +288,21 @@ Querer - to want (IRREGULAR)
   - How much: Cuánto / Cuánta 
     - ¿Cuanto dinero tienes?
     - ¿Cuanta musica hay?
+    - **NOT** countable. Water in bottle, rain, money (can count pesos)
     
   - How many: cuántos / cuántas
     - Cuantos carros tienes?
     - Cuantas sillas necesistas?
+    - **COUNTABLE**: pesos
 
   How much does something cost:
     - ¿**Cuánto vale** el carro? How much is the car.
     - ¿**Cuánto cuesta** la casa? How much si the house.
+
+### Cómo / como
+  - The way you do something. An explanation.
+
+  - ¿Como estas?
 
 ### Cuál 
 
@@ -286,12 +311,22 @@ Querer - to want (IRREGULAR)
   - ¿Cuál es tu película favorita?
 
 ### Donde
-  Where
+ -  Where: para lugar (For places)
 
   - ¿De donde eres? : Where are you FROM.
   - ¿donde estar? : Where are you?
 
   Maria es de sur de España.
+
+### Cuando
+  When: para tiempo (time)
+
+  - ¿Cuándo empreza la clase? (what time does the start class)
+  - ¿A que horas? (at what time)
+  - ¿Qué dia? (what day) 
+  - ¿En qué ano empezo la Segunda Guerra Mendial? (in what year)
+    - 1941: mil novecientos curante y una
+    - One thousand, nine hundred, and 41.
 
 ### Decir (to say)
   - IRREGULAR: digo, dices, dice, dicimos, dicen 
