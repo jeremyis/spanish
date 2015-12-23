@@ -114,7 +114,7 @@ tomar:  to take / to drink
 llevar: to bring
 descansar: to rest
 llamar: to call
-viajar:  to travel
+viajar:  to travel (via-har)
 caminar:  to walk
 trabaajar: to work
 partir: to separate
@@ -179,7 +179,6 @@ espejo - mirror
 cómodas / comodas - comfortable
 oscuars - dark
 móvil / movil - mobile, moving
-entonces - then
 lejos - far
 circa - near
 carpeta - carpet
@@ -298,7 +297,7 @@ tarea - homework
 salir - to exit / to go out / to leave
 siempre - always
 nunca - never
-aprendir - to learn
+aprender - to learn
 aprendo - i learn
 decir - to say
 quedar - to be left, to stay
@@ -367,3 +366,133 @@ tipo - kind / type
 tiempo - time (like for your free time)
 como - like, to eat, as (...as...as..., with tan... como))
 cómo / como - how (has accent)
+entrevista - interview
+entiendo - i understand
+entiendes - understand
+ademas de - besides
+leer - to read (laayer)
+bailar - to dance
+claro - of course (but no attitude)
+musica - music (moos-ica)
+menitras - lies
+corazón /corazon - heart (but also sweety for girl)
+aviones - airplane (big one)
+aeroplane - airplane (not used / technical term)
+viento - wind
+sonar / soñar - to dream
+sonar - sound
+mar - sea (usually masculine, poetry / songs feminine)
+moto - motorcyle  or scooter
+motocicleta - motorcyle  or scooter
+correr - to run
+lluvia - rain
+montaña / montana - mountain
+vecino / vecina - neighbor
+coquetear - to flirt
+guitarra - guitar
+menear - to shake, to sway, to dance
+castana, castaña - chestnut, or flamenco clap thing
+encantar - to love
+molestar - to be annoyed by / to be bothered by
+importar - to import / to care about (with gusta structure)
+doler - to hurt
+me duele [x] - [x] hurts me. (to feel pain, not to hurt someone else)
+nariz - nose
+cerebro - brain
+dolor - pain (noun)
+lastimar - to produce pain, an injury
+saltar - to jump
+
+- levantar: to lift, like muscles
+- latir: to beat (like heart)
+- stomacho: stomach
+  - vacio: empty
+  - llenu: full
+  - doler: ache
+- cerebro: brain
+  - pensar: to think
+  - imginar: to imagine
+- lung: pulmon
+
+- Head: la cabeza
+  - To nod: asentir
+    - Asentir con la caveza
+  - To shake:
+    - negar (for no): negar con la cabeza
+    - asentir (for yes): asentir con la cabeza
+  - To scratch:
+    - rascarse la cabeza / John se rasca la cabeza
+  - smart: intelligente
+- Arms: los brazos
+  - To throw: lanzar, lanzaro
+    - ball: pelota, bola
+  - To raise: levantar
+    - Levanto mi brazo
+- Torso: el torso
+  - To beat: gulpear
+  - To twist: girar
+  - Skinny: flaco
+  - fat: gordo
+- Legs: las piernas
+  - Long: largo
+  - short: corto
+  - to kick: patear
+  - to walk: caminar
+  - to run: correr
+  - to jump: saltar
+- Feet
+- Hands
+- Ears
+
+- e.g. Ojos - ver / mirar / observar -
+- e.g. Boca - comer, hablar
+- e.g. dientes (teeth) - mordeura (bite),
+- e.g. language (tongue) - saborear (taste)
+- e.g. labios - besar (to kiss)
+
+- Banarse - to bath self
+- Ducharse - to shower self
+- lavarse - to wash self
+- cepillarse - to brush (teeth or hair)
+- vestirse: to dress self
+- maquillarse: to put makeup on yourself
+- ponerse (ropa) - to put on
+- quitarse (ropa) - to take
+- moverse - to move self
+  - mover (non reflxive): to move something else
+- leventarse - to lift self
+- sentarse - to sit down
+- acostarse - to lay down / go to bed
+
+- todas los dias - every day
+- a vences:   sometimes
+- siempre:  always
+- nunca: never
+- usualmente: usually
+- normalmente: normally
+- casi: almost
+  - casi siempre
+  - casi nunca
+- Los lunes: EVERY  Monday
+- a las 9:00: AT 9AM
+  - a la 1:00: At 1
+- a medianoche - at midnight
+- a mediodia - at noon
+- en la manana / tarde / noche: in the morning, afternoon, at night
+- despues - after
+- luego - later
+- mas tarde: later
+- llegar: to arive
+
+- El año pasado / a - last year
+- El proximo / a ano / mes / semana - next year, month, week
+- Hace # dias / mesos / anos / minutos - # days ago
+
+- aqui  - here
+- acá / aca - (a-kah) here
+- allí / alli - a-jee
+- allá / alla - a-(jah)
+- ahi - (ayee) means somewhere or 'there' but don't use now
+- ay - excited noise
+- hay - there is
+deber - must
