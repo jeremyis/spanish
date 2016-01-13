@@ -17,3 +17,7 @@ sabes - you know
 que pasa si... (what happens if)
 la tienda - store
 ¿Puedes darme / traerme....: "Can you give me / bring me..."
+
+mientras - while
+como - like (or how)
+hacia - towards / to (e.g. estoy yendo hacia tu casa)
