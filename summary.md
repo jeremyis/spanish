@@ -412,6 +412,9 @@ Querer - to want (IRREGULAR)
   - estoy hablando - i am speaking
   - estas hablando - you are speaking
 
+  - with reflexive verbs, pronoun goes BEFORE estar :
+    -  **me** estoy divertiendo como un nino (divertirse).
+
 ## Conocer v Saber
   - to know
 
