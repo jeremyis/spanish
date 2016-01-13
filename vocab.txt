@@ -47,7 +47,7 @@ bajo - short
 delgado - slim
 rubio - blond
 antipatico - unfriendly
-listo - ready or smart
+listo - ready, smart, done
 nervioso - nrvous
 divertido - fun
 malo - bad
@@ -62,7 +62,6 @@ interesante (gender neutral)- interesting
 inteligente (gender neutral)- smart
 fuerte (gender netural) - strong
 calvo - bald
-bigote - mustache
 barba - beard
 muscoloso - muscley
 
@@ -117,12 +116,10 @@ llamar: to call
 viajar:  to travel (via-har)
 caminar:  to walk
 trabaajar: to work
-partir: to separate
+partir: to separate / to cut. to leave (but very poetic)
 abrir: to open
 escribir: write
 
-carro - car
-coche - car
 estos - these
 ese - those
 esto - this
@@ -252,11 +249,13 @@ perder - to lose
 pensar - to think
 poder - to can (you can sleep). always has infinitive after it (no puedo dormir)
 encontrar - to find
+encontarse - to meet someone for first time, to meet
 volver - to return
-pedir - to ask for
+pedir - to ask a favor, an address, instruction, order food
+preguntar - to ask a question
 vestirse - to get dressed
 servir - to serve
-jugar - to fly
+jugar - to play games
 empezar - to start
 dormir - to sleep
 venir - to come
@@ -266,7 +265,6 @@ preferir - to prefer
 hacer - to do / to make / to cause
 viaje - journey / trip (noun)
 cambiar - to change / to switch
-pensar - to think
 siempre - always
 quedarse / quedasmos - to stay
 amo - love
@@ -284,10 +282,10 @@ sé - i know
 
 - Traducir - to translate
 - Conducir - to translate
-- saber - to know
 - producir - to produce, grow
 - dar - to give
-- conocer - to know people or places
+- conocer - to know people or places (have been to place)
+- saber - to know (know name of place)
 - traer - to bring
 - caer - to fall
 - poner - to put
@@ -349,6 +347,8 @@ cantante - singer
 banda - bandes
 influyente - influential
 cabello - hair on head
+caballo - horse
+caballeros - gentlemen
 esclavos - slaves
 personaje - character in book
 viajo - I travel
@@ -392,7 +392,9 @@ coquetear - to flirt
 guitarra - guitar
 menear - to shake, to sway, to dance
 castana, castaña - chestnut, or flamenco clap thing
-encantar - to love
+encantar - to love (As in an object)
+amar  - to love (as in a person)
+cantar - to sing
 molestar - to be annoyed by / to be bothered by
 importar - to import / to care about (with gusta structure)
 doler - to hurt
@@ -438,7 +440,6 @@ saltar - to jump
   - short: corto
   - to kick: patear
   - to walk: caminar
-  - to run: correr
   - to jump: saltar
 - Feet
 - Hands
@@ -482,7 +483,7 @@ saltar - to jump
 - despues - after
 - luego - later
 - mas tarde: later
-- llegar: to arive
+- llegar: to arrive / to get to some place
 
 - El año pasado / a - last year
 - El proximo / a ano / mes / semana - next year, month, week
@@ -496,3 +497,148 @@ saltar - to jump
 - ay - excited noise
 - hay - there is
 deber - must
+realidad - reality
+
+- la ceja - eyebrow
+- el ojo - eye
+- la mejilla - cheeck
+- el menton  - chin
+- la barbilla - chin
+- la boca - mouth
+- el rostro - the face
+- la cara - face
+- la frente - forehead
+- la nariz - nose
+- los labios - lips
+- la oreja - external ears
+- el cuello - the neck
+
+- el pecho - chest
+- el torso - torso
+- el hombro - shoulder
+
+- la cadera - the hip
+
+- los brazos - arms
+- los dedos - toes / fingers
+
+- los piernas - legs
+- el pie - foot
+- el dedo del pie - toe
+- el talon - heel
+
+- cerebro - brain
+- pensar - to think
+- digerir - to digest
+- musculos - muscles
+- ramper - to break
+- huesos - bones
+
+- nervios - nerves
+- agent - agente (a-hen-tay)
+- veneno - poison
+ademas - as well as, besides, in addition
+costar - to cost
+cucaracha - cockroach
+alto - tall
+rica - rich
+pasar - pass over (que pasa: what happened)
+pelearse - fight with each other
+darse la mano - shake hands
+enseñar / ensenar - to teach
+montar - to ride
+aburrirse - to get bored
+acercarse - to get closer
+acordarse - to remember
+acostarse - to lay down
+ahogarse - to drown
+alejarse - to get further away
+aprovecharse de- to take advantage of
+apurarse - to hurry up
+arrepentirse de - to regret
+arrodillarse -to kneel down
+ausstarse - to get frigthened
+atreverse - to dear
+cago - to poop
+caigo - I fall
+seguir - to follow, to continue
+decir - to say
+entender - to understand
+cerrar - to close
+sentir - to feel
+sentirse - to feel something
+accordarse de - to remember
+tocar - to play games, to touch, to play instruments
+los juegos - games
+trabajo - job
+entregar - to deliver / to give
+este - this
+ruido - noise
+la tienda - store
+despacio - slowly
+utilizar -to utilize, to use
+fila -  line
+empacar - to pack
+targo - shot (of liquid)
+extra- extra
+y ya - that's it
+algo - something
+pagar - to pay
+efectivo - cash
+trajeta - credit card
+picante - spicy
+cambia - change
+algo - something
+alguien - somebody
+bolsillo - pocket
+escenario - stage
+creo - I believe that...
+dorado - golden
+en serio - seriously?
+perdido - lost
+morir - to die
+divertir - to entertain other people
+divertirse - to have fun (reflexive)
+contigo - with you
+abogado - actor
+exito - success
+junto - together
+curar - to cure / to heal
+herida - wound
+sabor - to taste
+tropezar - to trip
+parar - to stop
+risa - laugh
+dolor - pain
+adelante - forward
+fe - faith
+comprender - to understand
+borrar - to erase
+llover - to rain
+flaca - slim
+raro - strange, weird
+guapo - good looking, brave / corageous (in colombia)
+lindo - cute
+chistoso - funny
+tonto - silly, foolish
+perezoso - lazy
+trabajador - hard working
+delgado - slim
+tacano, tacaño - cheap
+antipatico, antipático - mean
+carro - car in colombia (mexico - coche)
+bajito - a little short
+gordito - a little big
+morenito - brown skin
+negrito - black skin
+hablador - chatty, talkative
+estadounidense - from the us
+norteamericano - north american
+siglo - century
+labio - lips
+caricatura - cartoon character
+personaje - character
+villano - villain
+judador - player of game
+deporte - sport
+reunion - meeting
