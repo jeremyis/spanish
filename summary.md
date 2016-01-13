@@ -1,4 +1,4 @@
-t  summary
+Summary
 ======================
 
 ## OS X - Spanish letters
@@ -375,3 +375,62 @@ Querer - to want (IRREGULAR)
   - mas viejo (more old): mayor / mayores (older)
     - Tengo 26 años. Soy menor que mi hermano.
   - mas joven (more younger): menor / menores (younger)
+
+## TODO: summarize d7 -> d9
+
+## Gerundio - presente continuo (present continual)
+  - **gerundio**: gerund - form derived from verb but functions as noun
+  - Used to express what you are doing in the present.
+
+### Conjugation
+  - Conjugate verbs based off their ending or when they are irregular.
+    1. ar -> ando
+    2. er or ir -> iendo
+    3. irregular -> iendo or yendo
+
+  - examples:
+    - -ar:
+      - hablar -> hablando 
+      - bailar -> bailando 
+    - -er:
+      - correr -> corriendo 
+      - apprendir -> aprendiendo
+    - -ir:
+      - salir -> saliendo
+      - partir -> partiendo
+    - irregular:
+      - ir -> yendo
+      - oir -> oyendo
+      - construir -> construyendo
+      - dormir -> durmiendo
+
+### Useage:
+  - With estar - NOT ser
+    - Do NOT use with other verbs (since you are doing it).
+  - Do **NOT** conjugate the gerunds
+
+  - estoy hablando - i am speaking
+  - estas hablando - you are speaking
+
+## Conocer v Saber
+  - to know
+
+|                         | conocer   | saber   |
+|-------------------------|-----------|---------|
+| yo                      | conozco   | sé      |
+| tu                      | conoces   | sabes   |
+| el / ella / usted       | conoce    | sabe    |
+| nosotros                | conocemos | sabemos |
+| ellos / ellas / ustedes | conocen   | saben   |
+
+1. Conocer
+  - you know a person
+  - you have visited a place (country, restaurant, city, etc.)
+  - you meet someone for the first time
+    - "Encontado de conocerte": nice to meet you
+      - concert**te**
+
+2. Saber
+  - you know a fact
+  - when saber is followed by: por que, que, quien, donde, cuando, cual.
+  - when talk about skills (se cocinar, se hablar spanol) 
