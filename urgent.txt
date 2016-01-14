@@ -3,7 +3,7 @@ entro - i enter
 el domingo - sunday
 descanso - break / rest
 ayuda - help
-ahora  - now
+ahora - now (but in SA means soon or later hehe)
 hoy - today
 hay - there are
 Que voy a hacer? -  What am I going to do?
@@ -21,3 +21,20 @@ la tienda - store
 mientras - while
 como - like (or how)
 hacia - towards / to (e.g. estoy yendo hacia tu casa)
+mismo - right now
+pensar - to think
+verdura - vegetable
+
+esta / este - this
+esto - this (for situation  / idea)
+estos / estas - these
+ese / esa - that
+eso - that (for situation / idea)
+esos / esas - those
+
+algunas veces - some times
+a veces - at times
+alguna - any
+
+adelante - forward
+derecho - straight

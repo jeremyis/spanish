@@ -437,3 +437,89 @@ Querer - to want (IRREGULAR)
   - you know a fact
   - when saber is followed by: por que, que, quien, donde, cuando, cual.
   - when talk about skills (se cocinar, se hablar spanol) 
+
+## Los numeros (y grande)
+
+  - 1->30 are one word, after we do trienta y uno, ...
+  - 1952 = mil novecientos cincuenta y dos
+    - 1 mil, 900 hundred, and 52
+  - 14.367 = catorce mil trescientos sesente y siete
+    - 14 mil, 3 hundred
+
+  - 500 = quinientos
+  - 1000 = un mil
+    - 100.000 = centi mil
+  - 1'000.000 = un millón
+  - 1'000.000.000.000 = un billón
+
+  - 500.000 = medio millón
+    - will not use quarters
+
+  - how much does it cost:
+    - cuanto cuesta? or 
+    - cuanto vale?
+
+  - y is not used for [any hundreds] (1->30) 
+  - y is **not** used to separate hundreds from tens
+    - ciento ochenta y nueve
+
+### Ordinal numbers
+
+  - primero - first
+  - segundo - second
+  - tercero - third
+  - cuarto - fourth
+  - quinto - fifth
+  -...
+
+  - Adjectives but come before noun
+    - unless noun refers to royalty, pope or street, come after
+    - Carlos Quinto, La calle sexta
+
+  - Gender:  
+    - Change it! But:
+    - **ONLY for primer and trecer, drop o when using as adjective for masculine**
+      - primer mes
+      - tercer ano
+      - segund**o** mes, sext**o** mes
+
+    - **Keep o when not adjective**
+      - segundo / tercero / primero de primaria
+
+    - **Conjugate when using with feminine**
+      - primera semana
+
+## (TODO): move me to above. Reflexive verbs (more) 
+
+### Second reflexive verb
+
+  - querer: quiero peinarme
+    - quiero peinarte: I want to comb your hair
+      - **NOT** I want you to comb your hair
+      - BUT, tu te pienartes - combe your hair
+  - poder: puedo maquillarme: I can make up myself
+    - tu necesitas maquillarte: you need to make up yourself
+      - OR tu te necesitas maquillar
+
+  - **Can add me / te when direct pronouns on back of any verb, not just reflexive**
+
+### Hang out with (Encontrarse con alguien)
+- Encontrarse con alguien - meet with someone (not for first time)
+  - yo me encuentro con mi mama: I meet with my mom
+  - tu te encuentes: te encuentras con Philip
+
+### Irse - to leave (vs ir to go)
+
+- yo me voy 
+  - me voy is I LEAVE. Yo voy is I go.
+- tu te vas
+
+- yo necessito irme: I need to go
+
+## Futuro Proximo
+  - ir a + verbo infinitivo
+    - voy a comer: I will go to ea 
+    - vas a bailar: You go to dance
+    - va a comprar: He will buy
+    - vamos a visitar: We will visit
+    - van a viajar: they will travel

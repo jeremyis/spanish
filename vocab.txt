@@ -642,3 +642,21 @@ villano - villain
 judador - player of game
 deporte - sport
 reunion - meeting
+alquilar - to rent
+rentar - rent
+genial - great
+peligroso - dangerous
+vida - life
+reir - to laugh
+gozar - to enjoy
+herida - wound
+vencer - to defeat
+sequia - drought
+lluvia - rain
+camino - path, road, way
+sonar, soñar - to dream
+llorar - to cry
+adelante - forward
+derecho - straight
+conseguir - to get
+deportivo - sports
