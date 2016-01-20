@@ -9,6 +9,12 @@ Summary
   - Shift + Option + ?: ¿
   - Option + 1: ¡
 
+## Resources
+  
+  - quizlet.com: GREAT for flashcards (Que tal Andrew??)
+  - studyspanish.com: great grammar section
+  - wordreference.com: best dictionary / conjugator
+  - netflix.com: shows and movies have good Spanish subtitles and dubbing
 
 ## Infinitivo
 
@@ -207,7 +213,7 @@ Group 2
 Group 4
 
   - Ser - soy, eres, es, somos, son
-  - ir  - voy, vas,  va, vamos, von
+  - ir  - voy, vas,  va, vamos, van
     - verbo de movimento (implies move self from one object to another)
 
 Group 5 
@@ -219,7 +225,7 @@ Group 5
 
 Other:
   - Traducir: traduzco (to translate)
-  - Conducir: conduzco (to translate)
+  - Conducir: conduzco (to drive)
   - saber: sé (to know)
   - producir: produzco (to produce, grow)
   - dar: doy (to give)
@@ -236,14 +242,14 @@ Poder + infinitivo
     - Puedo comer en tu casa
   - Podemos visitar Guatapé
 
-## Necesisdad - need
+## Necesidad - need
 
-Necesistar - to need (REGULAR)
+Necesitar - to need (REGULAR)
 
 1. Necesitar + infinitivo: Necesisto domir
 2. Necesistar + sustantivo: Necesisto una cerveza
 
-* For "it is necssary". Say **Tú necesitas**.  **Do NOT say**: Es necesitas. 
+* For "it is necssary". Say **Tú necesitas**.  **Do NOT say**: Es necesita. 
 
 ## Preferencia - preference
 
@@ -267,14 +273,14 @@ Querer - to want (IRREGULAR)
 
 ## Pronouns
 
-## Que
+### Que
   - what? Para coasa (for things)
   - ¿Qué quieres?
 
 ### Quién / Quienes
   Quien: who / for personas
   
-    - answer is always a person
+  - answer is always a person
 
   1. ¿quien **es** tu profesor?  
   2. ¿quienes **son** ellos?
@@ -328,7 +334,7 @@ Querer - to want (IRREGULAR)
     - 1941: mil novecientos curante y una
     - One thousand, nine hundred, and 41.
 
-### Decir (to say)
+## Decir (to say)
   - IRREGULAR: digo, dices, dice, dicimos, dicen 
 
 ## Conocer v saber (To know)
@@ -376,11 +382,72 @@ Querer - to want (IRREGULAR)
     - Tengo 26 años. Soy menor que mi hermano.
   - mas joven (more younger): menor / menores (younger)
 
-## TODO: summarize d7 -> d9
+## Gusta
+  - "gusta" does not conjugate (only gusta y gustan)
+  - article before: me, te, le, nos, les
+  - conjugates **with the object**
+    - Think of it as "this movie pleases me": me gusta la pelicula
+
+|             | (optional) emphasis | (optional) alternative emphasis | article proceeding | gusta (conjugates on object) |
+|-------------|---------------------|---------------------------------|--------------------|------------------------------|
+| yo          | a mi                |                                 | me                 | gustas tu                    |
+| tu          | a ti                |                                 | te                 | gusto yo                     |
+| el / ella / | a el / ella / usted | a Michele le                    | le                 | gusta ella                   |
+| nosotros    | a nosotoros         | A Tom y a mi nos                | nos                | gustan ellos                 |
+| ellos       | a                   | A Tom y a Michelle les          | les                | gustamos nosotros            |
+
+## Gusta-like verbs ("Como me gusta")
+
+  - encantar (to love)
+  - interesar (to be interested in)
+    - A ti te interesa aprender epsanol
+  - molestar (to be annoy by / to be bothered by)
+    - A ella le molesta el ruido. (she is bothered by the noise)
+  - importar (to care about with this structure, normal form is import)
+    - yo importo cafe - (import cafe)
+    - A me importa la chica (I care about the girl)
+    - No me importa (I don't care)
+    - No importa (doesn't matter)
+  - doler - (o->ue irregular)
+    A mi me duele mi pierna (my legs hurt)
+
+  * Can also put in the front
+    - **A mi perna me duele.**
+
+## Verbos Reflexivos: actions that subject does to itself
+  - **ALWAYS** have pronoun with conjugation
+    - e.g. me with llamo, te with llamas, etc.
+
+### llamar: to call
+
+  - to call on phone,
+  - yo llamo a mi hermana
+
+#### llamarse (adds pronoun)
+  
+  - yo me llamo
+  - tu te llamas
+  - el /ella se llamas
+  - nosotros nos llamas
+  - ellos se llamas
+
+### Other reflexives
+
+- leventarse: to lift oneself
+  - me levanto
+  - el se levanta
+- lavarse: to wash oneself
+  - me lavo los manos (los manos OK since it has to be your own)
+- vestirse: to dress onself
+  - me visto
+- irse: to leave
+  - te vas
+- durcharse: to shower
+- encontrarse - to meet someone
 
 ## Gerundio - presente continuo (present continual)
   - **gerundio**: gerund - form derived from verb but functions as noun
-  - Used to express what you are doing in the present.
+  - "I am running..." - Used to express what you are doing in the present.
 
 ### Conjugation
   - Conjugate verbs based off their ending or when they are irregular.

@@ -266,7 +266,7 @@ hacer - to do / to make / to cause
 viaje - journey / trip (noun)
 cambiar - to change / to switch
 siempre - always
-quedarse / quedasmos - to stay
+quedarse / quedasmos - to stay or remain
 amo - love
 pasarme - to come / go / pass
 algo - something / anything
@@ -298,7 +298,7 @@ nunca - never
 aprender - to learn
 aprendo - i learn
 decir - to say
-quedar - to be left, to stay
+quedar - to be left, to stay, to remain
 gente - people
 cuenta - the check / bill in restaurant
 pelicula - movie
@@ -337,7 +337,6 @@ ventana - window
 salon - class room
 sala - living room
 ruidosa - noisy
-demasiado - too
 temprano - early
 cuadios - plad
 sonrisa - smile
@@ -660,3 +659,34 @@ adelante - forward
 derecho - straight
 conseguir - to get
 deportivo - sports
+parecer - to seem, to appear (as in seem)
+demasiado - too
+ya - (presence) now, (past) already
+tanto - so much
+atrasado - late, behind schedule
+peor - worse
+principio - beginning
+miel - honey (food)
+igualmente - equally, likewise, you too
+objeto - object, purpose
+que - what, that, than, or to (depending on structure)
+montanas - mountains
+haber - to exist (used with past participants and "hay")
+aburrida - boring
+ejemplo - example
+vegetales - vegetables
+enfermo / enfermos - sick
+anteayer - day before yesterday
+vikingos - viking
+noruega - norway
+servir - to fit in clothes
+caber - to fit (things in things)
+producir - to produce
+montar en - to ride a moto / bike / animal
+ejercicio - exercise
+competir - to complete
+parecer - to seem
+suponer - to suppose
+- casi: almost
+  - casi siempre
+  - casi nunca
