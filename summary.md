@@ -415,8 +415,16 @@ Querer - to want (IRREGULAR)
     - **A mi perna me duele.**
 
 ## Verbos Reflexivos: actions that subject does to itself
+
+1. Object and subject are the same. Or, implies movement (because you move yourself).
+2. Two parties do to each other.
+  - Juan y Maria se enamoran: Juan and Maria fall in love. 
+3. Sentiments / emotions / involuntary actions. It happens to you.
+  - Caerse, to fall by accident.
+
+### Pronouns: me, te, se, nos, se
   - **ALWAYS** have pronoun with conjugation
-    - e.g. me with llamo, te with llamas, etc.
+  - e.g. me with llamo, te with llamas, etc.
 
 ### llamar: to call
 
@@ -443,7 +451,89 @@ Querer - to want (IRREGULAR)
 - irse: to leave
   - te vas
 - durcharse: to shower
-- encontrarse - to meet someone
+
+## Pronouncination
+
+
+### Vowels
+
+**ALWAYS** pronounce each vowel. Except:
+  1. g**ue**rra - /gah-ra/ (or que)
+  2. g**ui**sa - /gea-sa/ (or qui)
+
+e.g. Aeropuerto
+  - ah - a - ree - oh - puer - to
+
+- a: /ah/
+- e: /eh/
+- i: /ee/
+- o: /oh/
+- u: /oo/
+  - written as ü in güi, güi
+  - silent in gue, gui (without umlaut)
+
+### Consants
+
+- c:
+  1. /kaa/ if before a, o, u (camisa, color). Same sound as cat.
+  2. /s/ if before e, i (cerveza, cita)
+- j: /h/
+- g:
+  1. /h/ if after e, i, j (general, gimnasio, gente)
+  2. /g/ if after a, o, u (gato, gota, gusto)
+- h: NEVER PRONOUNCE!
+- l: /l/ but with tip of tongue touching roof of mouth.
+- ll: /j/
+- p: /p/ but not exposive
+- q: /k/. Same sound as key. (found only in combinatinos of que, qui)
+- v: /b/ o /v/. Somewhere between.
+- j: /h/. Maybe with slight gutteral
+- y: /j/
+  - at end of word /ee/
+- w: does not exist in Spanish
+- x: /x/
+- z: /s/ (in espana /th)
+
+### Stress
+
+1. Words that end in a vowel (a, e, i, o, u) or n or s have stress on pentultimate syllable
+  - cuca**ra**cha
+  - to**ma**tes
+  - vo**lu**men
+
+2. Words that end in any other constant (besides n or s) have stress on final syllable
+  - sa**lud**
+  - doc**tor**
+  - a**zul**
+
+3. Exceptions to these rules will have a written accent
+  - ca**fé**
+  - te**lé**fono
+
+### Spelling
+
+1. Nouns / adjectives that end in z change to c in plural
+  - el lápiz -> los lápices
+  - la nariz -> las narices
+  - feliz -> felices
+
+2. Z followed by a or o changes to c before an e or i. Z and c sound the same.
+  - comienza -> comience
+  - empiezo -> empiece
+
+## Indefinite pronouns
+  - refers to non-specific objects or places
+
+|                           | some           | none      | every                                                        |
+|---------------------------|----------------|-----------|--------------------------------------------------------------|
+| cosas (things)            | algo           | nada      | todos                                                        |
+| personas                  | alguein        | nadie     | todo                                                         |
+| tiempo (time / frequency) | a veces        | nunca     | siempre                                                      |
+| lugar (places)            | en algun lugar | en ningún | en todos partes (everywhere) / en cualquien lugar (anywhere) |
+
+**NOTE**: use double negative for "I don't want to eat anyhting"
+  - No quiero nada de comer.
+#TODO: summarize 8 -> 14
 
 ## Gerundio - presente continuo (present continual)
   - **gerundio**: gerund - form derived from verb but functions as noun
@@ -557,6 +647,19 @@ Querer - to want (IRREGULAR)
       - primera semana
 
 ## (TODO): move me to above. Reflexive verbs (more) 
+## Pronombres de objeto directo / indrecto
+
+|          | directo | indirecto | for reflexive verbs |
+|----------|---------|-----------|---------------------|
+| yo       | me      | me        | me                  |
+| tu       | te      | te        | te                  |
+| el       | lo      | le        | se                  |
+| ella     | la      | le        | se                  |
+| usted    | le/lo   | le        | se                  |
+| nosotros | nos     | nos       | nos                 |
+| ellos    | los     | les       | se                  |
+| ellas    | las     | les       | se                  |
+| ustedes  | les/los | les       | se                  |
 
 ### Second reflexive verb
 
