@@ -19,7 +19,7 @@ Summary
 ## Infinitivo
 
 - ar: hablar
-- er:  comer
+- er: comer
 - ir: vivir
 
 |                        | ar: hablar     | er: comer     | ir: vivir|
@@ -472,7 +472,7 @@ e.g. Aeropuerto
   - written as ü in güi, güi
   - silent in gue, gui (without umlaut)
 
-### Consants
+### Consonants
 
 - c:
   1. /kaa/ if before a, o, u (camisa, color). Same sound as cat.
@@ -533,7 +533,7 @@ e.g. Aeropuerto
 
 **NOTE**: use double negative for "I don't want to eat anyhting"
   - No quiero nada de comer.
-#TODO: summarize 8 -> 14
+#TODO: summarize 9 -> 14
 
 ## Gerundio - presente continuo (present continual)
   - **gerundio**: gerund - form derived from verb but functions as noun
