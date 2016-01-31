@@ -531,9 +531,8 @@ e.g. Aeropuerto
 | tiempo (time / frequency) | a veces        | nunca     | siempre                                                      |
 | lugar (places)            | en algun lugar | en ningún | en todos partes (everywhere) / en cualquien lugar (anywhere) |
 
-**NOTE**: use double negative for "I don't want to eat anyhting"
+**NOTE**: use double negative for "I don't want to eat anything"
   - No quiero nada de comer.
-#TODO: summarize 9 -> 14
 
 ## Gerundio - presente continuo (present continual)
   - **gerundio**: gerund - form derived from verb but functions as noun
@@ -629,7 +628,7 @@ e.g. Aeropuerto
   - quinto - fifth
   -...
 
-  - Adjectives but come before noun
+  - Adjectives come after noun
     - unless noun refers to royalty, pope or street, come after
     - Carlos Quinto, La calle sexta
 
