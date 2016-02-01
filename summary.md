@@ -744,6 +744,45 @@ TODO: should I make a tener category with tener expressions
 
   - Tengo que estudiar... : I have to study
   - Tienes que comer... : You have to eat
+
+## Deber: SHOULD / have to / must
+
+## Directions vocab
+
+  - enfrente / en frente - in front
+  - delante / adelante - in front 
+  - adentro - inside / indoors (ad verb)
+  - arriba - up
+  - abajo / bajo - down
+    - bajo - also means short / small / low
+  - detras / otras - behind / at the back
+
+## Por v para ("for")
+
+### Para ("for" or "to")
+  - Usually english "for" is para (except related to time
+
+  - Express a goal: Trabajo para ganar dinero.
+  - Express deadline: El trabajo debe estar hecho para el jueves.
+  - Person who receives something: Ese regalo es para Carmen.
+  - Indicate destination: Voy para Madrid.
+  - Express contrast: Para un nino lee muy bien (For a child, he reads well)
+  - Express action that is about to happen: "El tren esta para salir" (train is about to leave)
+  - Opinion: Para mi la pelicula es buena.
+    - Para mi: "In my opinion"
+  - Comparison: For being a doctor, he is not intelligent
+
+### Por ("for" or "over" / "by")
+  - Cause / reason ("because of"): Ha sido expulsado por compiar.
+  - Period ("per" / how often"): Voy al cine tres veces por semana.
+  - Unspecified location ("over there"): el supermercado esta por alli.
+  - Describing something you use for something: hablamos por skype todas las noches.
+  - Switching something (intercambio): te cambio el libro por la revista
+    - Puedes cambiar papas por unos vegetales.
+  - Moving "through": Viajo por Latin America (I travel through Latin aermica)
+  - Passive voice: Movie was directed BY Steven Speilberg.
+  - Multiplication / division: Dos por dos son cuatro.
+
 ## Past tense
 ### Pretérito Perfecto (present perfecto)
   - "Has verb-ED": has finished
