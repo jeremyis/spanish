@@ -452,6 +452,16 @@ Querer - to want (IRREGULAR)
   - te vas
 - durcharse: to shower
 
+- querer: quiero peinarme
+  - quiero peinarte: I want to comb your hair
+    - **NOT** I want you to comb your hair
+    - BUT, tu te pienartes - combe your hair
+- poder: puedo maquillarme: I can make up myself
+  - tu necesitas maquillarte: you need to make up yourself
+    - OR tu te necesitas maquillar
+
+- **Can add me / te when direct pronouns on back of any verb, not just reflexive**
+
 ## Pronouncination
 
 
@@ -645,7 +655,6 @@ e.g. Aeropuerto
     - **Conjugate when using with feminine**
       - primera semana
 
-## (TODO): move me to above. Reflexive verbs (more) 
 ## Pronombres de objeto directo / indrecto
 
 |          | directo | indirecto | for reflexive verbs |
@@ -660,18 +669,52 @@ e.g. Aeropuerto
 | ellas    | las     | les       | se                  |
 | ustedes  | les/los | les       | se                  |
 
-### Second reflexive verb
+* **Direct Object**: object that directly receives action of verb. e.g. - Luisa ve **la pelicula** 
+  - When person is object, add "a": Luisa ve a Philip
+* **Indirect Object**: tells us where the DO is doing / going.
+  - answers question "to whom" / "for whom"
 
-  - querer: quiero peinarme
-    - quiero peinarte: I want to comb your hair
-      - **NOT** I want you to comb your hair
-      - BUT, tu te pienartes - combe your hair
-  - poder: puedo maquillarme: I can make up myself
-    - tu necesitas maquillarte: you need to make up yourself
-      - OR tu te necesitas maquillar
+* You can place a D.O. and I.O.  pronoun before the verb
+  - Direct Object: Luisa **lo** ve
+  - Indirect Object: Maria **le** compra un collar
 
-  - **Can add me / te when direct pronouns on back of any verb, not just reflexive**
+* You can place BOTH pronouns before the verb:
+  - Maria compra un collar a su hijar: Maria le lo compra
 
+* Indirect ALWAYS comes before direct
+
+* With two verbs (last infinitive), can:
+  1. Place pronoun imediately before verb
+    - Luisa me quiere visitar
+  2. Attach it directly to the infinitive
+    - Luisa quiere visitarme
+
+* With negative sentences, pronoun comes after "no"
+  - No lo explica el problema
+
+**Can replace both direct and indirect objects**
+  1. Maria compra _un libro_ **a su abuelo**
+  2. Mario **le** compra un libro
+  3. Maria **le** _lo_ compra.
+    - but this sounds really wierd to have le / lo, so we use se for indirect.
+  4. Maria **se** _lo_ compra
+
+**se for les IF you are also replacing indirect / direct**
+  - Maria compra un libro a los ninos
+  - Maria se lo compra
+
+**When you have two verbs and two objects:**
+  1. add ONE to end
+    - Quiero comprar un libro a los ninos
+      - Quiero comprarles un libro, OR
+      - Quiero comprarlo a los ninos
+  2. add BOTH to end
+      - Quiero comprar**telo**
+      - Quiero comprar**selo**
+        - remember les is replaced with se when doing both.
+  3. **do NOT** split pronouns
+    - CANNOT do los querio comprorse
+  
 ### Hang out with (Encontrarse con alguien)
 - Encontrarse con alguien - meet with someone (not for first time)
   - yo me encuentro con mi mama: I meet with my mom
@@ -692,3 +735,59 @@ e.g. Aeropuerto
     - va a comprar: He will buy
     - vamos a visitar: We will visit
     - van a viajar: they will travel
+
+## "I have to"
+TODO: should I make a tener category with tener expressions
+
+  - tener que + verbo : (subject) has/have to...
+  - Conjugate tener
+
+  - Tengo que estudiar... : I have to study
+  - Tienes que comer... : You have to eat
+## Past tense
+### Pretérito Perfecto (present perfecto)
+  - "Has verb-ED": has finished
+
+  - Useages: 
+    - Past tense for actions that began in the past but are still happening / relevant in the present
+      - "We have lived here for over 5 years" 
+    - Action / event in the past that does not refer to a concrete time, but was completed recently
+      - The mail has arrived, she has waited for us in the room.
+
+  - HABER (conjugation) + participio (conjugate)
+
+  - haber conjugation: he, has, ha, hemos, han
+
+  - e.g.: ¿Que has hecho? (What have you done? common greeting)
+
+### "Just" happened: acabar
+  - acabar + de + infintive
+  - El correo acaba de llegar: the mail has just arrived
+
+#### Past Participio:
+  - -ar: ado
+  - -er/-ir: ido
+
+  - e.g.: pintar: pintado, perder: perdido, salir: salido
+
+##### Irregular group
+  - Verbs with a, e, o immediately peceding the infinitive have accent mark over í in participle
+
+  - caer:  caído
+  - oír: oído
+  - reír: reído
+  - traer: traído
+
+#### Irregulare Participios
+
+  - ser: sido
+    - **ha sido**: has been
+  - hacer: hecho
+  - ver: visto
+  - escribir: escrito
+  - abrir: abierto
+  - decir: dicho
+  - morir: muerto
+  - poner: puesto
+  - volver: vuelto
+  - (etc)
