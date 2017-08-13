@@ -1,0 +1,489 @@
+siguiente;next one (n - no gender), following (adj)
+algo;something (pron, adv)
+nada;nothing
+todo;everything
+alguien;someone, somebody (pronoun)
+nadie;no one, nobody (pronoun)
+todo;everyone
+nunca;never
+en algún lugar;someplace
+en ningún parte;nowhere
+en todos partes;everywhere
+en calquien lugar;anywhere
+o sea;in other words, i mean
+el género;gender, type (adj)
+a menos;unless
+la certeza;certainty (noun)
+inmutable;immutable, unchangeable (adj)
+asiático;asian (adj)
+judio;Jewish (adj)
+el judio;Jew (noun)
+el indio;Indian (noun)
+la manera;way, method (noun)
+enfermo;sick (adj)
+la enfermera;nurse
+inteligencia artificial;artifical intelligence
+el propósito;intent, purpose (noun
+el griego;Greek (noun)
+marte;Mars
+la planeta;planet
+oscuro;dark (adj)
+el cuchillo;knife
+el tenedor;fork
+la cuchara;spoon
+desconsiderada;inconsiderate, rude (adj)
+el sueco;a swede
+Suecia;Sweden
+googlear;to google
+envidioso;jealous, envious (adj)
+la publicidad;advertising
+desesperado;desperate, hopeless (adj)
+ojalá;"I wish", hopefully
+la oración;sentence
+confiar;to trust
+a mi tampoco;me niether
+a mi también;me too
+morado;purple (adj), bruise (noun)
+el mentiroso;liar (n)
+desconsiderado;inconsiderate, rude (adj)
+malagradecido;ungrateful (adj)
+disponible;available, free (adj)
+el empleado;employee
+el espectador;spectator
+gracioso;funny (adj)
+lastimar;to hurt (physical and emotional), to damage
+existir;to exist
+finalizar;to end/finish
+arreglar;to repair, to resolve (e.g. relationship issues
+espiar;to spy on
+fabricar;to manufacture, to make
+pesar;to weigh
+orinar;to pee
+relajarse;to relax, calm
+superar;to lead, to overtake
+unir;to unite, join together, connect
+almuerzar;to have lunch
+abrir;to open
+enfocar;to focus
+olvidar;to forget
+parar(se);to stop (to stand up)
+subir;to climb, go up
+escoger;to choose, to pick
+exigir;to require, to demand
+elegir;to choose, to select, to elect
+fingir;to pretend, to fake emotion
+debatir;vto debate
+vestir;to wear
+significar;to mean (definition), to indicate
+empeorar;to get worse
+desear;to wish, to desire
+atraer;to attract
+repetir;to repeat
+recoger;to pick up, to gather
+abandonar;to abandon, to neglect
+acabar (de);to end, put an end to (have just)
+nevar;to snow
+confesar;to confess, to admit
+fregar;to wash, to scrub
+acostar;to lay down, to put in bed
+agregar;to add
+medir;to measure, weigh, consider
+reiniciar;to restart, to reboot
+sugerir;to suggest
+aconsejar;to advise
+preguntar;ask
+creer;believe
+prestar;borrow
+traer;bring
+comprar;buy
+poder;can, be able
+cambiar;change
+limpiar;clean
+venir;come
+bailar;dance
+dibujar;draw
+beber;drink
+conducir;drive
+comer;eat
+explicar;explain
+encontrar;find
+terminar;finish
+olvidar;forget
+dar;give
+ir;go
+tener;have
+oir;hear
+dañar,herir;hurt
+saber;know (a fact / skill)
+conocer;know (a person, place) or meet someone for first time
+aprender;learn
+salir,marcharse;leave
+escuchar;listen
+vivir;live
+mirar;look
+perder;lose
+hacer;make, do
+decir;to say, tell
+querer;to want, love
+llegar;to arrive, become, reach
+deber;to owe, have to, must, oblige to
+poner;to put, place, set
+quedar(se);to remain - e.g. one manuscript copy remains (to stay or to remain)
+pensar;to think
+sentir;to feel, to regret
+empezar;to begin, to start
+buscar;to search for, look for
+existir;to exist
+entrar;to enter, go in, come in
+trabajar;to work
+entender;to understand
+pedir;to request, ask for
+recordar;to remember, to remind
+comezar;to begin, start
+leer;to read
+crear;to create, to make
+abrir;to open
+morir;to die
+tocar;to touch, to play (an instrument)
+reconocer;to recognize
+ayudar;to help
+usar;to use
+llevar;to carry, to take, to bring
+dejar;to let, allow, abandon/leave
+practicar;to practice
+ver;to see
+dormir;to sleep
+divertir;to entertain
+divertirse;to have fun
+almuerzar;to have lunch
+viajar;to travel
+visitar;to visit
+reir;to laugh
+gozar;to enjoy
+llorar;to cry
+doler;to hurt
+soñar;to dream
+intentar;to try
+conseguir;to get / obtain / achieve
+probar;to try, taste
+Deber;Should
+pasar;to occur / to happen / to pass / to spend (time)
+parecer;to seem, to appear
+seguir;to follow / to pursue,
+llamar;to call, to name
+durar;to last / to go on for
+enviar;to send
+contestar;to answer / reply
+extrañar;to miss
+extrañarse;to be surprised / startled
+ahorrar;to save / put away
+envejecer;to age / get older
+mejorar;to improve / progress
+enseñar;to teach
+finalizar;to end / finish
+suponer;to suppose / mean
+caber;to fit
+volver;to return
+tomar;to take, to drink
+tratar;to treat, to handle (+ prep, be about)
+contar;to count, to relate, to tell
+esperar;to wait, to hope
+occurir;to occur, to happen
+recibir;to receive, to accept
+organizar;to organize,
+bajar;take down
+decidir;to decide
+elegir;to choose, elect, select
+temer;to fear
+vender;to sell
+cooperar;to cooperate
+preparar;to prepare
+subir;to climb, go up
+componer;to fix
+sonreír;to smile
+parquear;to park (a car)
+nacer;be born
+lavar;to wash, to launder
+indicar;to indicate
+tranquilizar;calm down, relax
+abrazar;to hug, hold, embrace
+negar;to deny
+volar;to fly
+calentar;to heat up
+descubrir;to discover, find out
+cortar;to cut
+ocurrir;to happen, to occur
+conquistar;to conquer, win over, captivate
+dividir;to divide, to split
+quinientos;five hundred
+episodio;chapter, part
+siguiente;next one (noun), following (adj)
+audiencia;audience
+parar(se);to stop, to stand up (reflexive)
+recoger;to pic up, gather, collect
+importar;matter, be important (gustar like)
+firmar;to sign
+sacar;to take (a foto), to take out, to get/receive
+tirar;to throw
+compartir;to share
+funcionar;to work, to function
+mezclar;to mix, to blend
+dudar;to doubt, to hesitate in doing
+fingir;pretend, to fake emotions, to voice imitate
+pretender;to pretend to be, to attempt, to try to
+mover(se);to move onself
+mudar(se);to move away / relocate your house
+manejar;to manage, handle
+convertir(se);to become
+requerir;to require
+generalizar;to generalize
+sentar;to sit
+amar;to love
+advertir;to warn, to advise, to inform
+devolver;to return something, to give back
+programar;to program
+concentrar(se);to assemble, togather (concentrate, focus)
+lastimar;to hurt (physical and emotional), to damage
+pesar;to weigh
+copiar;to copy
+orinar;to pee
+relajarse;to relax, calm
+fabricar;to manufacture, to make
+espiar;to spy on
+saltar;to jump
+unir;to unite, join together, connect
+separar;to separate, to divide
+remover;to remove, to stir
+arreglar;to repair, to resolve (e.g. relationship issues)
+solucionar;to resolve, to solve
+enfocar;to focus
+superar;to lead, to overtake
+gastar;to spend, to use up
+escoger;to choose, to pick
+exigir;to require, to demand
+dos dias atrás;two days ago
+no me importa;i don't care
+verdura;vegetable
+este;this (masculine)
+esta;this (feminine)
+ese;that (masculine)
+esa;that (feminine)
+esas;that plural (feminine)
+estos;these (masculine)
+esto;this (for situation / idea)
+eso;that (for situation / idea)
+algunas veces;sometimes
+a veces;at times
+tanto;so much, so many, so long, also goal / point
+atrasado;behind schedule
+peor;worse
+cierto;true
+hace dos noches;two nights ago
+semana pasada;last week
+por mi mismo;by myself
+un año y medio;a year and a half
+acá;here (not aqui)
+allá (not allí);there
+detrás de;behind
+horario;schedule
+tacónes;heel
+barato;cheap
+por fin;finally
+asi que;so that
+arriba;up
+en vez de;instead of
+espectáculo;a show
+por lo general;generally (not generalmente)
+de vez en cuando;once in a while, sometimes
+oración;prayer / sentence
+admirador;admirer
+raras veces;not often / rarely
+por un rato;for a while
+durante;during
+presas de pollo;pieces of chicken
+no te preocupes;do not worry (tu)
+torpe;clumsy
+la tarea;the homework
+correo;mail
+similar;similar
+hecho;fact or incident
+cada;each / every
+dedo;finger / toes
+sobre;about
+colegio;high school
+cita;appointment / meeting
+bolsillo;pocket
+hacia;around, towards
+aunque;although
+viajo;old
+viajo;I travel
+Antiguo;Ancient
+vida;life
+ensayo;essay, test, trial, rehearsal
+ocupada;busy, occupied (adj)
+recoger;to pick up, gather, collect
+mudarse;move, move away from, move out
+árbole;tree
+vecino;neighbor
+campo;field, pasture, camp
+ruido;noise
+paz;peace
+espacio;space
+primavera;spring
+verano;summer
+pelota;ball
+brazo;arm
+calentar;heat up
+partido;game, competition, match
+colega;colleague
+mentira;lie
+primera guerra mundial;World War I
+batalla;battle (noun)
+actualmente;at present, presently (adv)
+actual;current, present, contemporary (adj)
+incluso con;even with
+grado;degree (university), rank, degree (temperature), year/grade (school) (noun)
+ingenieria;engineering
+hace tanto tiempo;so long ago
+cualquier;any / anyone
+celosa;jealous / possessive
+independencia;independence, sovereignty
+arrogante;arrogant
+de hecho;in fact, as a matter of fact
+en realidad;in reality, actually
+descendiente;descendent
+imperio;empire
+gobierno;government
+lanzamiento;throw, kick, launch (noun)
+invitado;guest
+quedarse con;stay with (as a guest)
+se suponer;supposed to ("it was supposed to")
+vuelo;flight
+país;country
+países;countries
+ahí;there (not allá)
+poder;power
+económico;economic, cheap
+economía;economy
+de todos modos;anyway
+visita;visit
+ser breve;be brief
+propio;own (as in my own)
+la lesión;injury
+la lección;lesson
+la señal;sign, gesture
+la duda;hestiation, doubt
+cuidadoso;careful, thorough
+casado;married
+cansado;tired
+relacionado con;related to
+la relación;relationship, connection, link
+además;besides, in addition, as well as
+el tema;subject, matter, theme
+la herramienta;tool
+la teoría;theory
+el crucero;cruise
+único;unique, only, one-of-a-kind
+solo;alone, single (adj)
+solamente;only, just (adv)
+la meta;goal, target, finish of race, goalkeeper
+por supuesto;of course
+la disciplina;discipline
+la manera;the way, method
+a menudo;often
+darse cuenta;realize, become aware
+callado;quiet, reserved
+ruidoso;loud
+alguien;someone, somebody
+nadie;no one, nobody
+seguro;certain, safe, secure
+mierda;shit!
+fuera;outside
+tipo;type
+gran;great, large (adjective)
+el estado;state, condition
+el acuerdo;agreement, understanding
+haciendo;doing / making
+el problema;problem
+alguna;someone, somebody
+muerto;dead, lifeless (adj)
+realmente;actually, really, truly
+cariño;affection, care. also honey / love
+lado;side
+entre;between, among
+algún;some, any
+el cuidado;care (noun)
+la forma;shape, form, figure
+seco;dry
+mojado;wet
+equivocado;wrong, incorrect (adj)
+el bosque;forest, woods
+la escena;scene, stage, incident
+la suegra;mother-in-law
+el suegro;father-in-law
+cercano;near, close for tme and place (adj)
+el traste;dish
+productivo;productive, fruitful (adjective)
+el esfuerzo;effort, sacrifice
+significativo;significant, meaningful (adj)
+físico;physical (adj)
+el físico;physicist
+el físico;physique, appearance, figure
+capacidad de concentración;capacity to concentrate
+ajedrez;chess
+la audiencia;audience
+la serie;set, series, tv series
+la fuerza;strength, force
+la mayoría;the majority
+la cantidad;quantity, amount, number
+el costo;the cost, price,
+la diversión;fun, amusement
+el resto;the rest, remainder
+el curso;course
+el aceite;oil
+orgulloso;proud (not do something bc you are too proud / arrogant)
+afortunadamente;fortunately
+extraño;strange, odd (adj)
+la empresa;business
+el taladro;drill (tool)
+rollizo;plump, chunky
+el cuello;neck
+el bigote;mustache
+inmenso;immense
+rubia;blonde
+habitual;usual (adj)
+encima;on, on top of, over, besides that
+la valla;fence
+el secreto;secret
+el amor;love
+pacifico;calm, peaceful (adj)
+accidentalmente;accidentally, unintentionally (adb)
+guayabo;hangover
+tener guayabo;to have a hangover
+el comienzo;the start
+depronto;suddenly
+el camino;road, journey, trip, path
+la fila;line, queue
+despacio;slowly (adv). NOT lento
+parecido;similar (adj). not similar
+la lechuga;lettuce
+la tocineta;bacon (colombia)
+la panceta;bacon
+la broma;joke, prank
+la belleza;beauty (noun), or beautiful person
+la cita;date
+bruja;witch
+en cambio;however
+la instrucción;education
+educativo;educational (adj)
+obviamente;obviously (adv)
+bendito;blessed, sacred (adj)
+justo;just, fair (adj)
+hostil;hostile, unfriendly (adj)
+la imaginación;imagination
+la vergüenza;embarassament, disgrace
+el chiste;joke
+la camiseta;t-shirt
+la receta;recipe
+el estorbo;impediment, obstacle, hindrance
+siguiente;next one (noun), following (adj)

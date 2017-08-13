@@ -30,16 +30,6 @@ Summary
 |nosotros                | habl**amos**   | com**emos**   | viv**imos**|
 |ustedes / ellos / ellas | habl**an**     | com**en**     | viv**en**|
 
-## Pronounciaion
-
-**The letter C**  
-k sound when letter following is a, o, u: casa,  
-s sound when letter following is e, i: cerveza, cine
-
-**The letter  G**  
-g sound when letter following is a, o, u: Gato ,Gorro, Gusano  
-hay sound when letter following is e, i: gente, gitanos  
-
 ## Ser and llamarse conjugation
 
 |                         | ser (to be - permanent) | llamarse (to be called) |
@@ -359,13 +349,24 @@ Querer - to want (IRREGULAR)
 
 ### Comparativos regulares
   
-  1. Superioridad (superiro): Más + adjetivo / sustantivo + que
-    - Medellin es más grande que Guatapé.
-    - Mi hermano es más grande que yo. 
-  2. Inferioridad (menos): Menos + adjectivo / sustantivo + que
+  1. Superioridad (superiro): 
+    - Más + adjetivo / sustantivo + que, or
+    - Más + object + de + (numero)
+      - But if the sentence is negative, use que: No tengo mas que cinco dolares
+    - "More than"
+      - Medellin es más grande que Guatapé.
+      - Mi hermano es más grande que yo. 
+  2. Inferioridad (menos): 
+    - Menos + adjectivo / sustantivo + que/de
     - Medellin es menos sucia que Bogotá.
-  3. Igualdad (Equality as...as...): Tan + adjectivio / sustantivo + como
-    - Luisa es tan bonita como tu
+  3. Igualdad (Equality as...as...): 
+    - Tan + adjectivio / sustantivo + como
+    - Tanto(-a, -os, -as) + noun + como
+      - Luisa es tan bonita como tu (Luisa is as pretty as you)
+      - Tiene tantos libros como ella (I have as many books as her)
+    - Verb + tanto + como
+      - Sus estudiantes aprenden tanto como mis estudiantes
+        - his students learn as much as my students.
 
 ### Comparativos irregulares
 
@@ -462,8 +463,24 @@ Querer - to want (IRREGULAR)
 
 - **Can add me / te when direct pronouns on back of any verb, not just reflexive**
 
+## Veces vs tiempo
+- veces: "occasions" / "instances"
+  - I went to the restaurant 3 times last week
+  - I will try three times
+- tiempo: concept of time
+  - I don't have time
+
 ## Pronouncination
 
+## Important
+
+**The letter C**  
+k sound when letter following is a, o, u: casa,  
+s sound when letter following is e, i: cerveza, cine
+
+**The letter  G**  
+g sound when letter following is a, o, u: Gato ,Gorro, Gusano  
+hay sound when letter following is e, i: gente, gitanos  
 
 ### Vowels
 
@@ -480,7 +497,8 @@ e.g. Aeropuerto
 - o: /oh/
 - u: /oo/
   - written as ü in güi, güi
-  - silent in gue, gui (without umlaut)
+    - umlat means must pronounce u
+  - silent in gue, gui, que, qui (without umlaut)
 
 ### Consonants
 
@@ -496,6 +514,7 @@ e.g. Aeropuerto
 - ll: /j/
 - p: /p/ but not exposive
 - q: /k/. Same sound as key. (found only in combinatinos of que, qui)
+  - que or qui. The u is silent!
 - v: /b/ o /v/. Somewhere between.
 - j: /h/. Maybe with slight gutteral
 - y: /j/
@@ -503,6 +522,8 @@ e.g. Aeropuerto
 - w: does not exist in Spanish
 - x: /x/
 - z: /s/ (in espana /th)
+
+- cu: /khoo/
 
 ### Stress
 
@@ -657,17 +678,19 @@ e.g. Aeropuerto
 
 ## Pronombres de objeto directo / indrecto
 
-|          | directo | indirecto | for reflexive verbs |
-|----------|---------|-----------|---------------------|
-| yo       | me      | me        | me                  |
-| tu       | te      | te        | te                  |
-| el       | lo      | le        | se                  |
-| ella     | la      | le        | se                  |
-| usted    | le/lo   | le        | se                  |
-| nosotros | nos     | nos       | nos                 |
-| ellos    | los     | les       | se                  |
-| ellas    | las     | les       | se                  |
-| ustedes  | les/los | les       | se                  |
+|          | directo | indirecto / gusta-like | for reflexive verbs |
+|----------|---------|------------------------|---------------------|
+| yo       | me      | me                     | me                  |
+| tu       | te      | te                     | te                  |
+| el       | lo      | le/se                  | se                  |
+| ella     | la      | le/se                  | se                  |
+| usted    | le/lo   | le/se                  | se                  |
+| nosotros | nos     | nos                    | nos                 |
+| ellos    | los     | les/se                 | se                  |
+| ellas    | las     | les/se                 | se                  |
+| ustedes  | les/los | les/se                 | se                  |
+
+* gusta-like verbs use indirecto
 
 * **Direct Object**: object that directly receives action of verb. e.g. - Luisa ve **la pelicula** 
   - When person is object, add "a": Luisa ve a Philip
@@ -830,3 +853,12 @@ TODO: should I make a tener category with tener expressions
   - poner: puesto
   - volver: vuelto
   - (etc)
+
+## To summarize
+
+AL + infinitive - upon (something)
+  - Al escuchar: "Upon hearing"
+
+acaba + de + infinitive
+  - something that has just happened
+  - El Correo acaba de llegar: the mail has just arrived
