@@ -902,3 +902,16 @@ AL + infinitive - upon (something)
 acaba + de + infinitive
   - something that has just happened
   - El Correo acaba de llegar: the mail has just arrived
+  
+  ### lo + (sustantivo)
+  
+- a lo largo de, throughout
+- a lo lejos, in the distance
+- a lo loco, like crazy
+- a lo mejor, probably
+- lo sabe todo, he/she knows it all
+- por lo general, generally
+- por lo menos, at least
+- por lo pronto, for now
+- por lo tanto, as a result
+- por lo visto, apparently
