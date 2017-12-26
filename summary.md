@@ -854,6 +854,46 @@ TODO: should I make a tener category with tener expressions
   - volver: vuelto
   - (etc)
 
+## Adjectivos: todo, cada, más, menos, medio, otro
+
+### Todo
+
+- siempre usa con los articulos el, la, los, las
+  - ejs: todo el día, todas la tardes
+- excepto cuando se usa con un nombre contable en singular (i.e. each and every)
+  - ejs: todo hombre es...
+  
+ ### Cada
+ 
+ - cada dos días
+ 
+ ### Más y menos
+ 
+ - se usan después del nombre cuando hay un número antes (lo opuesto de inglés)
+   - ej: necesito dos liros más
+ - más de + (número) = more than + (number)
+   - ej: Tengo más de dos cursos.
+   
+ ### Medio y media
+ 
+ - son adjectives
+ - si hay numero, pone despues del nombre
+   - ej: Compré dos libras y media
+ - si no hay numero, pone antes del nomber
+   - ej: Compré media libra de carne
+ - En México, y pocas otra de habla hispana, usa el orden del inglés
+   - ej: Compré dos y media libras
+ - La mitad de ___ = medio de ___
+ 
+ ### Otro y otra
+ 
+ - nunca se usan con el articulo indefinido un/una
+ - Es "another" como compuesto de an + other
+ - Si hay numero, se usa antes del numero (lo contrario del inglés)
+   - ej: Necesito otros dos libros
+ - cada dos: every other
+   - ej: cada dos días
+   
 ## To summarize
 
 AL + infinitive - upon (something)
