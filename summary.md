@@ -915,3 +915,56 @@ acaba + de + infinitive
 - por lo pronto, for now
 - por lo tanto, as a result
 - por lo visto, apparently
+
+# Subjuntivo
+
+## Presente
+ - usos
+   - deseos
+   - necesidades
+   - dudas
+   - situacione hipotéticas 
+ - formacion:
+    - ar -> e
+    - er/ir -> a
+ - expressionnes que indican el uso del subjuntivo
+    - desearía que
+    - deseo que
+    - me gustaría que
+    - quiero que
+    - necesito que
+    - no creo que
+    - no pienso que
+    - ojalá: ojalá vayas mañana a mi casa
+    - cuando
+    - tal vez
+    - quizas
+    
+## Presente Perfecto
+- la forma:
+  - **haya** + participio 
+
+- ejemplos:
+  - Verás de nuevo a tu hermano cuando haya salido de la carcel
+  - Espero que tu mamá haya salido bien de la operación
+  
+## Pluscamperfecto
+- la forma: 
+  - **haber** (subj. imperfecto) + participio
+  - **hubiera llegado**
+  
+- Dos usos:
+ 1. Si, **subjuntivo pluscamperfecto**, **condicional compuesta**
+   - Si **hubieras llegado** temprano, no **te habrías perdido** el juego.
+ 2. Acciones que hubieran occurido de manera diferente en el pasado
+   - Probablemente, me hubiera gustado ir a fiesta.
+
+- condicional compuesta: **haber** (cond. simple) + participio
+  - habría, habrías, habría, habríamos, habrían
+  
+## Subjuntivo imperfecto
+- Como si...
+  - Ella mie miró como si **fuera** más importante que yo
+- Cortesa
+  - Quisieras ir al cine esta noche
+- (I need to confirm but I think) Si con condicional.
