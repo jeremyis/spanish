@@ -4,6 +4,7 @@ Español
 - Escribir ensayo con verbos de cambio
 - Mira a ejercicios en el libro de Español de daniel por subjunctivo
 - Escucha ejercicios de escuchar... Y encontrar recurso de aprender español
+- Verbos con prepositiones (e.g. Atrasado en)
 
 # Maneras de estudiar
 1. Escuchar
